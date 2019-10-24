@@ -1,10 +1,9 @@
 // 실제로 UI를 그리는 파일 (https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views.layout-macros)
 // Bixby에서 사용 가능 UI 리스트 (https://bixbydevelopers.com/dev/docs/reference/type/layout-macro-def.content)
-layout-macro-def (RestaurantInfo) {
+layout-macro-def (RadioInfo) {
   params {
     param (info) {
-      type (Restaurant)
-      min (Required) max (One)
+      type (Radio)
     }
   }
   content {
@@ -16,7 +15,7 @@ layout-macro-def (RestaurantInfo) {
         cell-card{
           slot2{
             content{
-              primary("웹에서 보기")
+              primary("#{value(info.title)}")
             }
           }
          
@@ -37,7 +36,7 @@ layout-macro-def (RestaurantInfo) {
          cell-card{
           slot2{
             content{
-              primary("#{value(info.name)}")
+              primary("웹에서 보기")
             }
           }
           on-click{
