@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: "황소곱창",
+    title: "황소곱창",
     location: "경기도 수원시 영통구 망포동 524-4",
     url: "https://www.google.com/maps/place/%ED%99%A9%EC%86%8C%EA%B3%B1%EC%B0%BD/@37.2396731,127.0563909,17z/data=!3m1!4b1!4m5!3m4!1s0x357b448da6ed91f1:0xdaada6479465bccd!8m2!3d37.2396688!4d127.0585796",
     flag: false,
