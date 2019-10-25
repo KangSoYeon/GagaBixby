@@ -1,0 +1,11 @@
+structure (Results) {
+  description (계산된 결과와 설명이 담기는 Output Concept)
+  property (result) {
+    type (Result)
+    min (Optional) max (One)
+  }
+  property (operatorName) {
+    type (OperatorName)
+    min (Optional) max (One)
+  }
+}

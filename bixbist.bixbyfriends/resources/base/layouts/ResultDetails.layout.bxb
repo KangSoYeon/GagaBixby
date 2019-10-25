@@ -1,0 +1,18 @@
+layout-macro-def (resultDetails) {
+  params {
+    param (info) {
+      type (Results)
+      min (Optional) max (Many)
+    }
+  }
+  content {
+    cell-card {
+      slot2 {
+          content {
+            order (PrimarySecondary)
+            primary ("[두가지 숫자를 #{value(info.operatorName)}한 결과는 #{value(info.result)} 입니다.]")
+          }
+        }
+     }
+  }
+}

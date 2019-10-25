@@ -1,0 +1,15 @@
+action (PlusOperation) {
+  description (더하기를 하는 액션)
+  collect {
+    input (leftOperand) {
+      type (LeftOperand)
+      min (Required) max (One)
+    }
+    input (rightOperand) {
+      type (RightOperand)
+      min (Required) max (One)
+    }
+  }
+  type(Calculation)
+  output (Results)
+}

@@ -1,0 +1,35 @@
+structure (Radio) {
+  description (라디오)
+  property (title) {
+    type (Title)
+    min (Required) max (One)
+  }
+  property (dj) {
+    type (DJ)
+    min (Required) max (One)
+  }
+  property (startTime) {
+    type (StartTime)
+    min (Required) max (One)
+  }
+  property (endTime) {
+    type (EndTime)
+    min (Required) max (One)
+  }
+  property (hz) {
+    type (HZ)
+    min (Required) max (One)
+  }
+  property (channel) {
+    type (Channel)
+    min (Required) max (One)
+  }
+  property (img) {
+    type (Img)
+    min (Required) max (One)
+  }
+  property (site) {
+    type (Site)
+    min (Required) max (One)
+  }
+}

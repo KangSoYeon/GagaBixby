@@ -1,0 +1,15 @@
+action (RadioList) {
+  description (라디오 목록을 보여주는 액션)
+  collect {
+    input (date) {
+      type (Date)
+      min (Optional) max (One)
+    }
+    input (time) {
+      type (Time)
+      min (Optional) max (One)
+    }
+  }
+  type(Search)
+  output (Radio)
+}

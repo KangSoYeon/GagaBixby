@@ -1,0 +1,70 @@
+layout-macro-def (RadioInfo) {
+	params {
+		param (info) {
+			type (Radio)
+			min (Required) max (One)
+		}
+	}
+	content {
+    section{
+      title{
+        template ("라디오 정보")
+      }
+      content{
+        image-card {
+          text-position (Below)
+          image-background-color (White)
+          image-object-fit (Contain)
+          aspect-ratio (16:9)
+          image-url {
+            template ("[#{value(info.img)}]")
+          }
+          title-area {
+            halign (Start)
+            slot1 {
+              text {
+                value {
+                  template ("#{value(info.title)}")
+                }
+              }
+            }
+            slot2 {
+              paragraph {
+                value {
+                  template ("#{value(info.dj)}")
+                }
+              }
+            }
+            slot3 {
+              paragraph {
+                value {
+                  template ("#{value(info.startTime)} ~ #{value(info.startTime)}")
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+		// section{
+		//   title{
+		//     template ("맛집 정보")
+		//   }
+		//   content{
+		//     cell-card{
+		//       slot2{
+		//         content{
+		//           primary("웹에서 보기")
+		//         }
+		//       }
+		//       // on-click{
+		//       //   intent{
+		//       //     goal: OpenBrowser
+		//       //     value: $expr(info.site)
+		//       //   }
+		//       // }
+		//     }
+		//   }
+		// }
+	}
+}

@@ -1,0 +1,32 @@
+layout-macro-def (RadioList) {
+  params {
+    param (radio) {
+      type (Radio)
+      min (Required) max (One)
+    }
+  }
+  content {
+    cell-card {
+      slot1{
+        image{
+          url("#{value(radio.img)}")
+          shape (Square)
+        }
+      }
+      slot2 {
+        content {
+          order (PrimarySecondary)
+          primary ("#{value(radio.title)}")
+          secondary ("[#{value(radio.dj)}]")
+        }
+      }
+      // slot3{
+      //   label{
+      //     value{
+      //       template ("#{value(radio.startTime)} ~ #{value(radio.endTime)}")
+      //     }
+      //   }
+      // }
+    }
+  }
+}
