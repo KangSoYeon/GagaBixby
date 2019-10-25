@@ -5,8 +5,27 @@ action (RadioList) {
       type (Date)
       min (Optional) max (One)
     }
-    input (time) {
-      type (Time)
+    // type은 같고 input 이름이 다르면 재사용 가능?
+    // type이 같고 input 이름이 같으면 재사용 가능?
+    // 아니면 전부 다 달라야 하나?
+    input (input_start) {
+      type (StartTime)
+      min (Optional) max (One)
+    }
+    input (input_end) {
+      type (EndTime)
+      min (Optional) max (One)
+    }
+    input(input_dj){
+      type (DJ)
+      min (Optional) max(One)
+    }
+    input(input_title){
+      type(Title)
+      min (Optional) max (One)
+    }
+    input(input_word){
+      type(Word)
       min (Optional) max (One)
     }
   }

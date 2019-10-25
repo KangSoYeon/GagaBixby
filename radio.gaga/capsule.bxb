@@ -11,4 +11,8 @@ capsule {
     modern-prompt-rejection
     support-halt-effect-in-computed-inputs
   }
+
+  capsule-imports{
+    //import (viv.time) version()
+  }
 }
