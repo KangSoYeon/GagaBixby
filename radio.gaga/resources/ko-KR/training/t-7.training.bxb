@@ -1,0 +1,5 @@
+train (t-7rvmd15thye9mmolyp3iitlfh) {
+  utterance ("[g:Radio] (저녁 7시)[v:ST:19]에 하는 라디오 알려줘")
+  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
+  last-modified (1572092716597)
+}

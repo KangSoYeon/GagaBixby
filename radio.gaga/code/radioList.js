@@ -1,13 +1,10 @@
-module.exports.function = function radioList(date, input_start, input_end, input_dj, input_title, input_word) {
+module.exports.function = function radioList(input_start, input_dj, input_word) {
   const dummyData = require("./data/radios.js");
   const console = require('console');
   const fail = require('fail');
 
-  console.log("date:" + date);
   console.log("startTime:" + input_start);
-  console.log("endTime:" + input_end);
-  console.log("dj:" + input_dj);
-  console.log("title:" + input_title);
+  console.log("dj_title:" + input_dj);
   console.log("word:" + input_word);
 
   var dates = require('dates');
@@ -20,7 +17,9 @@ module.exports.function = function radioList(date, input_start, input_end, input
     if(input_word == "지금"){
      var hour = dates.ZonedDateTime.now().getHour();
       for(let i = 0; i < dummyData.length; i++){
-        if(dummyData[i].startTime.substr(0, 2) == hour){
+        var start = dummyData[i].startTime.substr(0, 2) * 1;
+        var end = dummyData[i].endTime.substr(0, 2) * 1;
+        if(hour >= start && hour < end){
           result.push(dummyData[i]);
         }
       }
@@ -36,7 +35,9 @@ module.exports.function = function radioList(date, input_start, input_end, input
 
       if(typeof input_start != "undefined"){
         for(let i = 0; i < dummyData.length; i++){
-          if(dummyData[i].startTime.substr(0, 2) == input_start.substr(0, 2)){
+          var start = dummyData[i].startTime.substr(0, 2) * 1;
+          var end = dummyData[i].endTime.substr(0, 2) * 1;
+          if(input_start >= start && input_start < end){
             ran.push(dummyData[i]);
           }
         }
@@ -45,7 +46,9 @@ module.exports.function = function radioList(date, input_start, input_end, input
         var hour = dates.ZonedDateTime.now().getHour();
         console.log(hour);
         for(let i = 0; i < dummyData.length; i++){
-          if(dummyData[i].startTime.substr(0, 2) == hour){
+          var start = dummyData[i].startTime.substr(0, 2) * 1;
+          var end = dummyData[i].endTime.substr(0, 2) * 1;
+          if(hour >= start && hour < end){
             ran.push(dummyData[i]);
           }
         }
@@ -58,7 +61,9 @@ module.exports.function = function radioList(date, input_start, input_end, input
   }
   else if(typeof input_start != "undefined"){
     for(let i = 0; i < dummyData.length; i++){
-      if(dummyData[i].startTime.substr(0, 2) == input_start.substr(0, 2)){
+      var start = dummyData[i].startTime.substr(0, 2) * 1;
+      var end = dummyData[i].endTime.substr(0, 2) * 1;
+      if(input_start >= start && input_start < end){
         result.push(dummyData[i]);
       }
     }
@@ -66,18 +71,12 @@ module.exports.function = function radioList(date, input_start, input_end, input
   else if(typeof input_dj != "undefined"){
     console.log(input_dj);
     for(let i = 0; i < dummyData.length; i++){
-      if(dummyData[i].dj == input_dj){
+      if(dummyData[i].dj.indexof(input_dj) != -1 || dummyData[i].title.indexof(input_dj) != -1){
         result.push(dummyData[i]);
       }
     }
   }
-  else if(typeof input_title != "undefined"){
-    for(let i = 0; i < dummyData.length; i++){
-      if((dummyData[i].title).indexof(input_title) != -1){
-        result.push(dummyData[i]);
-      }
-    }
-  }
+
   // 잘못된 입력일 경우
   else{
     console.log("잘못된 입력");

@@ -1,27 +1,31 @@
 action (RadioList) {
   description (라디오 목록을 보여주는 액션)
   collect {
-    input (date) {
-      type (Date)
-      min (Optional) max (One)
-    }
+    // input (date) {
+    //   type (Date)
+    //   min (Optional) max (One)
+    // }
     // type은 같고 input 이름이 다르면 재사용 가능?
     // type이 같고 input 이름이 같으면 재사용 가능?
     // 아니면 전부 다 달라야 하나?
     input (input_start) {
-      type (StartTime)
+      type (ST)
       min (Optional) max (One)
     }
-    input (input_end) {
-      type (EndTime)
-      min (Optional) max (One)
-    }
-    input(input_dj){
-      type (DJ)
-      min (Optional) max(One)
-    }
-    input(input_title){
-      type(Title)
+    // input (input_end) {
+    //   type (EndTime)
+    //   min (Optional) max (One)
+    // }
+    // input(input_dj){
+    //   type (DJ)
+    //   min (Optional) max(One)
+    // }
+    // input(input_title){
+    //   type(Title)
+    //   min (Optional) max (One)
+    // }
+    input (input_dj){
+      type (DJ_Title)
       min (Optional) max (One)
     }
     input(input_word){

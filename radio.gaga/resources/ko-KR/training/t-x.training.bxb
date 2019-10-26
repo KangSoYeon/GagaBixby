@@ -1,5 +1,5 @@
-train (t-x36f3qwbdmwnjnz7spnli89pc) {
-  utterance ("[g:Radio] (아무거나)[v:Word] 틀어줘")
-  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCCLhWeX5TCwMTACMQMQJKRAQSYIBgA)
-  last-modified (1572077963782)
+train (t-xv6c9oedhcvoac8th7utahhlm) {
+  utterance ("[g:Radio] (4시)[v:ST:4]에 하는 라디오 알려줘")
+  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
+  last-modified (1572092300551)
 }

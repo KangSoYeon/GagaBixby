@@ -99,6 +99,76 @@ module.exports = [
     img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F22%2F10%2F43%2F57_8221043_width_image_1557378696938.jpg",
        site: "http://program.kbs.co.kr/2fm/radio/jgmp/pc/"
   },
+   {
+    title: "조pd의비틀즈라디오",
+    dj:"조pd",
+    startTime: "02:00",
+    endTime: "03:00",
+    hz: 95.9,
+    channel: "MBC 표준FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F11%2F33%2F50%2F57_8113350_width_image_1523255283596.jpg",
+       site: "http://www.imbc.com/broad/radio/fm4u/beatlesradio/"
+ },
+ {
+    title: "fm영화음악김세윤입니다",
+    dj:"김세윤",
+    startTime: "03:00",
+    endTime: "04:00",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F23%2F34%2F06%2F57_10233406_width_image_1569821957414.jpg",
+       site: "http://www.imbc.com/broad/radio/fm4u/moviemusic/"
+ },
+ {
+    title: "비포 선라이즈 김수지입니다",
+    dj:"김수지",
+    startTime: "04:00",
+    endTime: "04:55",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F80%2F04%2F87%2F57_8800487_width_image_1569821549329.jpg",
+       site: "http://www.imbc.com/broad/radio/fm4u/beforesunrise2/"
+ },
+ {
+    title: "세상을 여는 아침 김초롱입니다",
+    dj:"김초롱",
+    startTime: "05:00",
+    endTime: "07:00",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "src=\"https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F78%2F36%2F15%2F57_6783615_width_image_1556541331504.jpg\"",
+       site: "http://www.imbc.com/broad/radio/fm4u/worldmorning/"
+ },
+ {
+    title: "굿모닝fm 장성규입니다",
+    dj:"장성규",
+    startTime: "70:00",
+    endTime: "09:00",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F23%2F29%2F09%2F57_10232909_width_image_1569806629546.jpg",
+       site: "http://www.imbc.com/broad/radio/fm4u/morningfm/"
+ },
+ {
+    title: "오늘 아침 정지영입니다",
+    dj:"정지영",
+    startTime: "09:00",
+    endTime: "11:00",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F67%2F21%2F11%2F57_672111_width_image_1552453020795.jpg",
+    site: "http://www.imbc.com/broad/radio/fm4u/todaym/"
+ },
+ {
+    title: "김현철의 골든디스크",
+    dj:"김현철",
+    startTime: "11:00",
+    endTime: "12:00",
+    hz: 91.9,
+    channel: "MBC FM4U",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F59%2F46%2F00%2F57_9594600_width_image_1554077071821.jpg",
+    site: "http://www.imbc.com/broad/radio/fm4u/goldendisc/"
+ },
   {
     title: "악동뮤지션 수현의 볼륨을 높여요",
     dj:"이수현",
