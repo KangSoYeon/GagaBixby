@@ -8,16 +8,23 @@ module.exports.function = function radioList(date, input_start, input_end, input
   console.log("title:" + input_title);
   console.log("word:" + input_word);
 
-  //console.log(ZonedDateTime.getDateTime());
+  var dates = require('dates');
+  console.log(dates.ZonedDateTime.now().getHour());
+  console.log(dates.ZonedDateTime.now().getMinute());
 
   let result = [];
 
   if(typeof input_start != "undefined"){
-
+    for(let i = 0; i < dummyData.length; i++){
+      if(dummyData[i].startTime.substr(0, 2) == input_start.substr(0, 2)){
+        result.push(dummyData[i]);
+      }
+    }
   }
   else if(typeof input_dj != "undefined"){
+    console.log(input_dj);
     for(let i = 0; i < dummyData.length; i++){
-      if((dummyData[i].dj).indexof(input_dj) != -1){
+      if(dummyData[i].dj == input_dj){
         result.push(dummyData[i]);
       }
     }
@@ -30,12 +37,24 @@ module.exports.function = function radioList(date, input_start, input_end, input
     }
   }
   else if(typeof input_word != "undefined"){
+    if(word.indexof("지금") != -1){
+     var hour = dates.ZonedDateTime.now().getHour();
+      for(let i = 0; i < dummyData.length; i++){
+        if(dummyData[i].startTime.substr(0, 2) == hour){
+          result.push(dummyData[i]);
+        }
+      }
+    }
     // 전체 출력
-    if(input_word.indexof("목록")){
+    else if(input_word.indexof("목록") != -1){
       for(let i = 0; i < dummyData.length; i++){
         result.push(dummyData[i]);
       }
     }
+  }
+  // 잘못된 입력일 경우
+  else{
+
   }
 
   console.log(result);

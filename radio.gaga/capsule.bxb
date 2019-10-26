@@ -13,6 +13,8 @@ capsule {
   }
 
   capsule-imports{
-    //import (viv.time) version()
+    import (viv.time) {
+      as (time) version (3.0.3)
+    }
   }
 }
