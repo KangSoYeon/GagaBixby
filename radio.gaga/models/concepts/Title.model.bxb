@@ -1,7 +1,8 @@
 enum (Title) {
   description (__DESCRIPTION__)
-  symbol (배철수의 음악 캠프)
+  symbol (배철수의 음악캠프)
   symbol (설레는 밤, 이혜성입니다)
+  symbol (음악의 숲 정승환입니다)
   symbol (김이나의 밤편지)
   symbol (아이돌라디오)
   symbol (이현경의 뮤직토피아)
@@ -40,5 +41,5 @@ enum (Title) {
   symbol (산들의 별이 빛나는 밤에)
   symbol (최백호의 낭만시대)
   symbol (배성재의 텐)
-  symbol ( 우원재의 Music High)
+  symbol (우원재의 Music High)
 }  
