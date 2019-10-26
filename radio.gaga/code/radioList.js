@@ -34,7 +34,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
     else if(input_word == "아무거나"){
       let ran = [];
 
-      if(input_start != "undefined"){
+      if(typeof input_start != "undefined"){
         for(let i = 0; i < dummyData.length; i++){
           if(dummyData[i].startTime.substr(0, 2) == input_start.substr(0, 2)){
             ran.push(dummyData[i]);
@@ -43,6 +43,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
       }
       else{
         var hour = dates.ZonedDateTime.now().getHour();
+        console.log(hour);
         for(let i = 0; i < dummyData.length; i++){
           if(dummyData[i].startTime.substr(0, 2) == hour){
             ran.push(dummyData[i]);
@@ -52,7 +53,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
 
       console.log(ran);
 
-      result.push(ran[Math.floor(Math.random() * ran.length)]);
+      if(ran.length != 0) result.push(ran[Math.floor(Math.random() * ran.length)]);
     }
   }
   else if(typeof input_start != "undefined"){
@@ -83,7 +84,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
     throw fail.checkedError("Unknown", "Unknown");
   }
 
-  if(!result.length){
+  if(result.length == 0){
     console.log("결과가 없음");
     throw fail.checkedError("No Result", "NoResult");
   }
