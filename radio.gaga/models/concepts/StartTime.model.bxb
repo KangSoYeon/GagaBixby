@@ -1,3 +1,4 @@
-text (StartTime) {
+enum (StartTime) {
   description (__DESCRIPTION__)
+  symbol (1시)
 }

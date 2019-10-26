@@ -1,4 +1,104 @@
 module.exports = [
+ {
+   title: "설레는 밤, 이혜성입니다",
+   dj:"이혜성",
+   startTime: "00:00",
+   endTime: "02:00",
+   hz: 89.1,
+   channel: "KBS2FM",
+   img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F81%2F27%2F84%2F57_9812784_width_image_1560160541640.jpg",
+   site: "http://program.kbs.co.kr/2fm/radio/seolbam/"
+ },
+ {
+   title: "음악의 숲 정승환입니다",
+   dj:"정승환",
+   startTime: "00:00",
+   endTime: "02:00",
+   hz: 91.9,
+   channel: "MBCFM4U",
+   img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F11%2F34%2F87%2F57_8113487_width_image_1569821048431.jpg",
+   site: "http://www.imbc.com/broad/radio/fm4u/forest/"
+  },
+ {
+   title: "김이나의 밤편지",
+   dj:"김이나",
+   startTime: "00:05",
+   endTime: "01:00",
+   hz: 95.9,
+   channel: "MBC 표준FM",
+   img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F58%2F61%2F63%2F57_9586163_width_image_1554086388611.jpg",
+   site: "http://www.imbc.com/broad/radio/fm/nightletter/"
+  },
+  {
+    title: "아이돌라디오",
+    dj:"정일훈",
+    startTime: "01:00",
+    endTime: "02:00",
+    hz: 95.9,
+    channel: "MBC 표준FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F61%2F02%2F02%2F57_8610202_width_image_1531896264107.jpg",
+    site: "http://www.imbc.com/broad/radio/fm/idolradio/"
+  },
+  {
+    title: "이현경의 뮤직토피아",
+    dj:"이현경",
+    startTime: "02:00",
+    endTime: "04:00",
+    hz: 103.5,
+    channel: "SBS 러브FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F66%2F52%2F25%2F57_665225_width_image_1430890414428.jpg",
+    site: "https://programs.sbs.co.kr/radio/musictopia"
+  },
+  {
+    title: "김정일의 생생가요",
+    dj:"김정일",
+    startTime: "04:00",
+    endTime: "05:00",
+    hz: 103.5,
+    channel: "SBS 러브FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F66%2F05%2F48%2F57_660548_width_image_1477463419206.jpg",
+    site: "https://programs.sbs.co.kr/radio/trotsong"
+  },
+  {
+    title: "유영미의 마음은 언제나 청춘",
+    dj:"유영미",
+    startTime: "05:00",
+    endTime: "06:00",
+    hz: 103.5,
+    channel: "SBS 러브FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F66%2F05%2F37%2F57_660537_width_image_1544059654523.jpg",
+    site: "https://programs.sbs.co.kr/radio/spring"
+  },
+  {
+    title: "이숙영의 러브FM",
+    dj:"이숙영",
+    startTime: "07:00",
+    endTime: "10:00",
+    hz: 103.5,
+    channel: "SBS 러브FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F67%2F45%2F26%2F57_674526_width_image_1552455461230.jpg",
+    site: "https://programs.sbs.co.kr/radio/lovefm"
+  },
+  {
+    title: "박소현의 상쾌한 아침",
+    dj:"박소현",
+    startTime: "05:00",
+    endTime: "06:00",
+    hz: 89.1,
+    channel: "KBS2FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F92%2F28%2F73%2F57_5922873_width_image_1496021093235.jpg",
+    site: "http://program.kbs.co.kr/2fm/radio/sofresh"
+  },
+  {
+    title: "조승연의 굿모닝팝스",
+    dj:"조승연",
+    startTime: "06:00",
+    endTime: "07:00",
+    hz: 89.1,
+    channel: "KBS2FM",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F22%2F10%2F43%2F57_8221043_width_image_1557378696938.jpg",
+       site: "http://program.kbs.co.kr/2fm/radio/jgmp/pc/"
+  },
   {
     title: "악동뮤지션 수현의 볼륨을 높여요",
     dj:"이수현",

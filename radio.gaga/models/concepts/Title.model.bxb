@@ -1,3 +1,4 @@
-name (Title) {
+enum (Title) {
   description (__DESCRIPTION__)
+  symbol (배철수의 음악 캠프)
 }
