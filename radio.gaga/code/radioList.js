@@ -37,7 +37,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
     }
   }
   else if(typeof input_word != "undefined"){
-    if(word.indexof("지금") != -1){
+    if(input_word == "지금"){
      var hour = dates.ZonedDateTime.now().getHour();
       for(let i = 0; i < dummyData.length; i++){
         if(dummyData[i].startTime.substr(0, 2) == hour){
@@ -46,7 +46,7 @@ module.exports.function = function radioList(date, input_start, input_end, input
       }
     }
     // 전체 출력
-    else if(input_word.indexof("목록") != -1){
+    else if(input_word == "목록"){
       for(let i = 0; i < dummyData.length; i++){
         result.push(dummyData[i]);
       }

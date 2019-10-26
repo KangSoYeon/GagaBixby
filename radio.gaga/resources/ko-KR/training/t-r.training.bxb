@@ -1,5 +1,5 @@
 train (t-rs1v5y275hbq1yquluu7ocdwi) {
-  utterance ([g:Radio] 라디오 목록 보여줘)
-  plan (Y2BkEC3ISaxML8ovzUvRS09MT9QLSkzJzGcAAUYQAQA=)
-  last-modified (1571970992661)
+  utterance ("[g:Radio] 라디오 (목록)[v:Word] 보여줘")
+  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCCLhWeX5TCwMTACMQMQJKRAQSYIBgA)
+  last-modified (1572071418440)
 }
