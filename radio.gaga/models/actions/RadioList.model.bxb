@@ -30,5 +30,27 @@ action (RadioList) {
     }
   }
   type(Search)
-  output (Radio)
+  output (Radio){
+    throws{
+      error (Unknown){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (unknown)
+            }
+          }
+        }
+      }
+
+      error (NoResult){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (no_result)
+            }
+          }
+        }
+      }
+    }
+  }
 }

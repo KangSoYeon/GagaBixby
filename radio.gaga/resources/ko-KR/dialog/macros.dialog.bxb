@@ -1,0 +1,10 @@
+template-macro-def (unknown){
+  content{
+    template ("문제가 생겼네요. 다시 한번 말씀해주세요.")
+  }
+}
+template-macro-def (no_result){
+  content{
+    template ("검색하신 결과가 없어요.")
+  }
+}

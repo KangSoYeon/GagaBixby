@@ -3,8 +3,13 @@ result-view {
   // 결과 화면을 보여주고 싶은 output concept을 지정
   match: Radio(this)
 
-  message {
-    template ("라디오 방영 목록이에요") 
+  message{
+    if(size(this) == 1){
+      template ("[#{value(this.title)}]에 대한 정보에요")
+    }
+    else{
+      template ("라디오 방영 목록이에요")
+    }
   }
 
   render {
@@ -16,8 +21,8 @@ result-view {
           }
         }
       }
-      
-    }else{
+    }
+    else{
       list-of (this){
         where-each (item){
           layout-macro (RadioList){
@@ -28,6 +33,18 @@ result-view {
         }
       }
     }
-    
+  }
+
+  conversation-drivers {
+    if (size(this) == 1) {
+      conversation-driver {
+        template ("다른 거 보여줘")
+      }
+    }
+    else{
+      conversation-driver {
+        template ("아무거나 틀어줘")
+      }
+    }
   }
 }

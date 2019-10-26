@@ -38,7 +38,7 @@ layout-macro-def (RadioInfo) {
             slot3 {
               paragraph {
                 value {
-                  template ("#{value(info.startTime)} ~ #{value(info.startTime)}")
+                  template ("#{value(info.startTime)} ~ #{value(info.endTime)}")
                 }
               }
             }
