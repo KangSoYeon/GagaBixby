@@ -17,4 +17,8 @@ capsule {
       as (time) version (3.0.3)
     }
   }
+  store-sections {
+    section (MusicAndAudio)
+    section (ArtAndLifestyle)
+  }
 }
