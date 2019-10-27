@@ -1,0 +1,5 @@
+train (t-slo04091k13m3e1h8ibnbmv2f) {
+  utterance ("[g:Radio] (수현)[v:DJ_Title:이수현]이 하는 라디오 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572152579761)
+}

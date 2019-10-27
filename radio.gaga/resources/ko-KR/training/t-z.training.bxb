@@ -1,3 +1,8 @@
+train (t-zf0ciq9gy774r0fx9cfbl8x9l) {
+  utterance ("[g:Radio] (산들)[v:DJ_Title:산들]이 하는 라디오 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572152651761)
+}
 train (t-zphgockp22q367cgx6dgq3ivo) {
   utterance ("[g:Radio] (정오)[v:ST:12]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
