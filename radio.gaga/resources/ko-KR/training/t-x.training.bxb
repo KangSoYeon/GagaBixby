@@ -1,3 +1,8 @@
+train (t-xnmc1k4fi2eaktgadu582jxqf) {
+  utterance ("[g:Radio] (붐)[v:DJ_Title:붐]이 하는 라디오 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572153477898)
+}
 train (t-xv6c9oedhcvoac8th7utahhlm) {
   utterance ("[g:Radio] (4시)[v:ST:4]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)

@@ -3,3 +3,8 @@ train (t-3ft9eeubklviv9txga536448p) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
   last-modified (1572152383362)
 }
+train (t-3r36bjxt1r6dbls7tjkenhnh9) {
+  utterance ("[g:Radio] (옥상달빛)[v:DJ_Title:옥상달빛]이 하는 라디오 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572153527621)
+}

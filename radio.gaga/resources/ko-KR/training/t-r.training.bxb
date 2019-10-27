@@ -1,3 +1,8 @@
+train (t-reo167ty4pm9xwqxxwu6m67i0) {
+  utterance ("[g:Radio] (정은지)[v:DJ_Title:정은지]가 하는 라디오 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572153434769)
+}
 train (t-rs1v5y275hbq1yquluu7ocdwi) {
   utterance ("[g:Radio] 라디오 (목록)[v:Word] 보여줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCCLhWeX5TCwMTACMQMQJKRAQSYIBgA)
