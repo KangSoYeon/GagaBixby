@@ -1,0 +1,15 @@
+action (OpenBrowser) {
+  description (__DESCRIPTION__)
+  type (Constructor)
+  collect {
+    input (site) {
+      type (Site)
+      min (Required) max (One)
+    }
+  }
+  output (Site){
+    evaluate{
+      $expr(site)
+    }
+  }
+}
