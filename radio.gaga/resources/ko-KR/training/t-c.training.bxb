@@ -1,0 +1,5 @@
+train (t-c2rfn5zx3dxuzjwasnp5uuhmb) {
+  utterance ("[g:Radio] (가요광장)[v:DJ_Title:정은지] 언제해?")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572156537808)
+}

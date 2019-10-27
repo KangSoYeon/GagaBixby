@@ -1,5 +1,15 @@
+train (t-0fvvdujcf5bmomls94d0rcgkh) {
+  utterance ("[g:Radio] (붐붐파워)[v:DJ_Title:붐] 찾아줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572157052009)
+}
 train (t-0pvryu45pw5b79wwhx2x5h7i3) {
   utterance ("[g:Radio] (오후 5시)[v:ST:17]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
   last-modified (1572092487372)
+}
+train (t-0u547g9s9km1fmyfah7km6yl0) {
+  utterance ("[g:Radio] (생생클래식)[v:DJ_Title:박지현] 언제해?")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572156779264)
 }

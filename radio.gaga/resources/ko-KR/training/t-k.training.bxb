@@ -3,3 +3,8 @@ train (t-k11qux4p6be7oudbkvchy3fi1) {
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
   last-modified (1572092712880)
 }
+train (t-kp5fzvz95d8y8is02eehdu01z) {
+  utterance ("[g:Radio] (집으로 가는길)[v:DJ_Title:소이현] 찾아줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572157132106)
+}

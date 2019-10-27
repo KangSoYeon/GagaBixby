@@ -1,3 +1,8 @@
+train (t-vem0seae2bgvc4q0sit5c05uj) {
+  utterance ("[g:Radio] (에헤라디오)[v:DJ_Title:윤택] 언제 해?")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572156344064)
+}
 train (t-voyz30x01r9yrshcohob641gb) {
   utterance ("[g:Radio] (아침 11시)[v:ST:11]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)

@@ -1,3 +1,8 @@
+train (t-57gyreyz4ux6hyd2bsafjstet) {
+  utterance ("[g:Radio] (정오의 희망곡)[v:DJ_Title:김신영] dj 누구야?")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572156584679)
+}
 train (t-5c039vs16mw54y2r4iha15483) {
   utterance ("[g:Radio] (저녁 8시)[v:ST:20]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)

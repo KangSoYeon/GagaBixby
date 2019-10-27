@@ -1,3 +1,8 @@
+train (t-6k3eayjfol4lsjoi62cvh7837) {
+  utterance ("[g:Radio] (볼륨을 높여요)[v:DJ_Title:이수현] 언제해?")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572156670559)
+}
 train (t-6oddxqxvsgjhtdukdna9kyqur) {
   utterance ("[g:Radio] (오전 5시)[v:ST:5]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
