@@ -1,0 +1,5 @@
+train (t-m772m3z6hvrd180p3ub6i9rvu) {
+  utterance ("[g:Radio] (지금)[v:Word] 하는 라디오 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572172130518)
+}

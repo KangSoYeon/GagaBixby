@@ -1,5 +1,10 @@
+train (t-fhczbppp8cswz0qep3976j625) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572172255317)
+}
 train (t-ftskl3bmlt5032353jnqudrwd) {
-  utterance ("[g:RadioList] (지금)[v:Word] 방송하는 라디오 보여줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAlA8A)
-  last-modified (1572167574477)
+  utterance ("[g:Radio] (지금)[v:Word] 방송하는 라디오 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572172039654)
 }

@@ -1,3 +1,13 @@
+train (t-hi5tib3se0opd75utfo9pq1y4) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송하는 라디오 찾아줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572171897870)
+}
+train (t-hwgkkrb2anp02o84lzski2a7x) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송하는 라디오 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572171983260)
+}
 train (t-hxlvw8t66gp2536kbdctj5i4k) {
   utterance ("[g:Radio] (김이나)[v:DJ_Title:김이나]가 하는 라디오 보여줘")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
