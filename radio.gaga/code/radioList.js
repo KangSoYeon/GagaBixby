@@ -71,7 +71,7 @@ module.exports.function = function radioList(input_start, input_dj, input_word) 
   else if(typeof input_dj != "undefined"){
     console.log(input_dj);
     for(let i = 0; i < dummyData.length; i++){
-      if(dummyData[i].dj.indexof(input_dj) != -1 || dummyData[i].title.indexof(input_dj) != -1){
+      if(dummyData[i].dj == input_dj){
         result.push(dummyData[i]);
       }
     }
