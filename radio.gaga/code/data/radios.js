@@ -136,7 +136,7 @@ module.exports = [
     endTime: "07:00",
     hz: 91.9,
     channel: "MBC FM4U",
-    img: "src=\"https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F78%2F36%2F15%2F57_6783615_width_image_1556541331504.jpg\"",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F78%2F36%2F15%2F57_6783615_width_image_1556541331504.jpg\"",
        site: "http://www.imbc.com/broad/radio/fm4u/worldmorning/"
  },
  {
