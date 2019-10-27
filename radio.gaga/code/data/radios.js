@@ -30,7 +30,7 @@ module.exports = [
    site: "http://www.imbc.com/broad/radio/fm/nightletter/"
   },
   {
-    title: "아이돌라디오",
+    title: "아이돌 라디오",
     dj:"정일훈",
     startTime: "01:00",
     endTime: "02:00",
@@ -100,7 +100,7 @@ module.exports = [
        site: "http://program.kbs.co.kr/2fm/radio/jgmp/pc/"
   },
    {
-    title: "조pd의비틀즈라디오",
+    title: "조pd의 비틀즈 라디오",
     dj:"조pd",
     startTime: "02:00",
     endTime: "03:00",
@@ -110,7 +110,7 @@ module.exports = [
        site: "http://www.imbc.com/broad/radio/fm4u/beatlesradio/"
  },
  {
-    title: "fm영화음악김세윤입니다",
+    title: "fm영화음악 김세윤입니다",
     dj:"김세윤",
     startTime: "03:00",
     endTime: "04:00",
