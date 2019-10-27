@@ -1,3 +1,8 @@
+train (t-uh65pjqklzhhtcuytwreejmyj) {
+  utterance ("[g:Radio] (밤 10)[v:ST:22]시 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572173032256)
+}
 train (t-uj93ihu6jp4bkeau2fseluuuc) {
   utterance ("[g:Radio] (아침 10시)[v:ST:10]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)

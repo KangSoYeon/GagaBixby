@@ -3,3 +3,8 @@ train (t-t6wgbsesmq4usc0tz8o15y0tm) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
   last-modified (1572172000143)
 }
+train (t-t9g85n1vd8g09tf26cyqne41w) {
+  utterance ("[g:ladies.gaga.Radio] (오후 8시)[v:ladies.gaga.ST:20] 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572173547300)
+}

@@ -3,6 +3,11 @@ train (t-a4k57x9b4lit7tba7dzf52eel) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
   last-modified (1572171188825)
 }
+train (t-a8i4vqj4acwwxngqp0d9rgu1y) {
+  utterance ("[g:ladies.gaga.Radio] (새벽 3시)[v:ladies.gaga.ST:3] 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572173501914)
+}
 train (t-am7mryeo95qx4pl3fhspug4ug) {
   utterance ("[g:Radio] (지금)[v:Word]")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)

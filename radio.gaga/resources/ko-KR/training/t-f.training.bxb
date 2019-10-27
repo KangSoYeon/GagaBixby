@@ -8,3 +8,8 @@ train (t-ftskl3bmlt5032353jnqudrwd) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
   last-modified (1572172039654)
 }
+train (t-fxw2qgwl3p82zy70n88mulgsu) {
+  utterance ("[g:Radio] (오후 3시)[v:ST:15] 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572173296264)
+}
