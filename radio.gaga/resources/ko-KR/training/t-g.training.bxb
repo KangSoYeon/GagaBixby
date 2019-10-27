@@ -1,3 +1,8 @@
+train (t-ghrpk1pdhvi6n73ki5bjt95nf) {
+  utterance ("[g:RadioList] (지금)[v:Word] 하는 라디오 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAlA8A)
+  last-modified (1572167528608)
+}
 train (t-grvfkwaa62v9274pip5gjqb8h) {
   utterance ("[g:Radio] (밤 10시)[v:ST:22]에 하는 라디오 알려줘")
   plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
