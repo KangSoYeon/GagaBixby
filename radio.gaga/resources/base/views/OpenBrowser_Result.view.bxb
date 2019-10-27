@@ -1,0 +1,9 @@
+result-view{
+  match: Site(this)
+
+  message()
+
+  app-launch{
+    payload-uri("#{value(this)}")
+  }
+}

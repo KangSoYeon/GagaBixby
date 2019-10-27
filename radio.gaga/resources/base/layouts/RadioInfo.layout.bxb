@@ -43,6 +43,13 @@ layout-macro-def (RadioInfo) {
               }
             }
           }
+
+          on-click{
+            intent{
+              goal: OpenBrowser
+              value: $expr(info.site)
+            }
+          }
         }
       }
     }

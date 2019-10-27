@@ -136,13 +136,13 @@ module.exports = [
     endTime: "07:00",
     hz: 91.9,
     channel: "MBC FM4U",
-    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F78%2F36%2F15%2F57_6783615_width_image_1556541331504.jpg\"",
+    img: "src=\"https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F78%2F36%2F15%2F57_6783615_width_image_1556541331504.jpg\"",
        site: "http://www.imbc.com/broad/radio/fm4u/worldmorning/"
  },
  {
     title: "굿모닝fm 장성규입니다",
     dj:"장성규",
-    startTime: "70:00",
+    startTime: "07:00",
     endTime: "09:00",
     hz: 91.9,
     channel: "MBC FM4U",
@@ -226,7 +226,7 @@ module.exports = [
     endTime: "14:00",
     hz: 93.1,
     channel: "KBS1FM",
-    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F14%2F51%2F54%2F57_4145154_width_image_1499415096843.jpg",
+    img: "https://search.pstatic.net/common?type=o&size=190x150&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F66%2F08%2F57%2F57_660857_width_image_1550012752342.jpg",
     site: "http://program.kbs.co.kr/1fm/radio/sangclassic/"
   },
  {
