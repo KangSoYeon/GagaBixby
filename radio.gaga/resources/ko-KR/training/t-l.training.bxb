@@ -1,3 +1,8 @@
+train (t-lq02egaaie2r06kc1girvqyuq) {
+  utterance ("[g:Radio] (아무거나)[v:Word] 틀어줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572163745632)
+}
 train (t-ltuf1cp8ocljuljdpjatilft8) {
   utterance ("[g:Radio] (오후의 발견)[v:DJ_Title:이지혜] 언제해?")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)

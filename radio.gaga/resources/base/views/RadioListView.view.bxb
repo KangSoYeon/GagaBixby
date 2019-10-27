@@ -9,6 +9,7 @@ result-view {
     }
     else{
       template ("라디오 방영 목록이에요")
+      
     }
   }
 
@@ -36,15 +37,11 @@ result-view {
   }
 
   conversation-drivers {
-    if (size(this) == 1) {
-      conversation-driver {
-        template ("다른 거 보여줘")
-      }
-    }
-    else{
+    if (size(this) != 1) {
       conversation-driver {
         template ("아무거나 틀어줘")
       }
     }
+      
   }
 }
