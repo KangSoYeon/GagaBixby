@@ -1,0 +1,14 @@
+capsule-info {
+  display-name (가가)
+  developer-name (ladies)
+  icon-asset (/code/data/Gagaicon.png)
+  description ("가가는 라디오 정보를 제공합니다. 라디오 프로그램명, DJ명, 시간으로 라디오를 검색할 수 있으며, 현재 방송중인 라디오의 목록을 보여줍니다.")
+  // website-url (https://example.com/)
+  // terms-url (https://example.com/terms-of-use/)
+  privacy-policy-url (https://docs.google.com/document/d/1Sq0Hp2ROd1qxtL160WsMrQgXU57S04Tl4L326CF-qqA/edit?usp=sharing)
+  search-keywords{
+    keyword (라디오)
+  }
+  dispatch-name (가가)
+
+}
