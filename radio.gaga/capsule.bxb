@@ -1,6 +1,6 @@
 capsule {
   id (ladies.gaga)
-  version (0.1.5)
+  version (0.1.6)
   format (3)
   targets {
     //target (bixby-mobile-en-US)
