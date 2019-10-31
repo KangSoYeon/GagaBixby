@@ -1,0 +1,10 @@
+train (t-i8vtdu1hj4qautvdl9c2ahfda) {
+  utterance ("[g:Radio] (아무거나)[v:Word] 알려줘봐")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523468154)
+}
+train (t-ibfwfuq81og5wh3tmmuoa9bi4) {
+  utterance ("[g:Radio] (목록)[v:Word] 알려줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523232020)
+}

@@ -8,3 +8,8 @@ train (t-uj93ihu6jp4bkeau2fseluuuc) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
   last-modified (1572516179643)
 }
+train (t-uouvscp8nuc5t3y253jogb3cb) {
+  utterance ("[g:Radio] (목록)[v:Word] 궁금해")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572522993433)
+}

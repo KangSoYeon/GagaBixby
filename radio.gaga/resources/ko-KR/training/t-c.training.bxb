@@ -3,3 +3,8 @@ train (t-c2rfn5zx3dxuzjwasnp5uuhmb) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
   last-modified (1572516047322)
 }
+train (t-cktv8atso0diyz4vm4ean69ln) {
+  utterance ("[g:Radio] (아무거나)[v:Word] 찾아줘봐")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523470670)
+}

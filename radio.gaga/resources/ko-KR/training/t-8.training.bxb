@@ -1,3 +1,13 @@
+train (t-8gutb8ke10i9hkcb4itzjgurb) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송 중인 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572521453586)
+}
+train (t-8jz1ahdhxztw7tj84s8gb8u2b) {
+  utterance ("[g:Radio] (목록)[v:Word] 보여줄래")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523175896)
+}
 train (t-8s7uq8s3miwfsg192jexh9pip) {
   utterance ("[g:Radio] (오후 3시)[v:ST:15]에 하는 라디오 알려줘")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)

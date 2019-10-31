@@ -1,3 +1,8 @@
+train (t-ffh6ewige3ssyv9w8324uknv8) {
+  utterance ("[g:Radio] (아무거나)[v:Word] 알려줄래")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523467337)
+}
 train (t-fhczbppp8cswz0qep3976j625) {
   utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오 알려줘")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)

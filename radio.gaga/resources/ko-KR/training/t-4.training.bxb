@@ -1,3 +1,8 @@
+train (t-4i00ak33qrnhx7qcrxlo0crg7) {
+  utterance ("[g:Radio] (이혜성)[v:DJ_Title:이혜성]")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572522832849)
+}
 train (t-4l4xlmu7g9nj8msjias1nk9c0) {
   utterance ("[g:Radio] (자정)[v:ST:0]에 하는 라디오 알려줘")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)

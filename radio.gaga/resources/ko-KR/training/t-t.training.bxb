@@ -8,6 +8,11 @@ train (t-t9g85n1vd8g09tf26cyqne41w) {
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
   last-modified (1572516169099)
 }
+train (t-tnq4w3yrq6sug2nw1e1v9mf3f) {
+  utterance ("[g:Radio] (아무거나)[v:Word] 보여줘")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523469822)
+}
 train (t-tzbr2kcwyi0yo2ivdkme4jn4f) {
   utterance ("[g:Radio] 라디오 (목록)[v:Word] 보여줄래")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)

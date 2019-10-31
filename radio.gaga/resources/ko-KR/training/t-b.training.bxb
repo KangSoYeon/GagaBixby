@@ -1,3 +1,8 @@
+train (t-b3njrs2rex2wf6k85o0pyh52f) {
+  utterance ("[g:Radio] (목록)[v:Word] 궁금하다")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572523258258)
+}
 train (t-be0mmd2gvt38adrant0l1vpjp) {
   utterance ("[g:Radio] (FM 풍류마을)[v:DJ_Title:백승주] 언제해?")
   plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
