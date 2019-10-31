@@ -1,10 +1,10 @@
 train (t-qg1g20k6s3g7105ov7p9ie74e) {
   utterance ("[g:Radio] (별밤)[v:DJ_Title:산들] 언제 해?")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572156439903)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516124525)
 }
 train (t-qwidl8dx4xwhgxrw4gdxlufp9) {
   utterance ("[g:Radio] (사랑하기 좋은날)[v:DJ_Title:이금희] 찾아줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572157094055)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516136266)
 }

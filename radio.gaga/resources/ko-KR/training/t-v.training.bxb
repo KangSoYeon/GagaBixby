@@ -1,10 +1,15 @@
+train (t-v72u4x4k4vspuhfuj7o58l4yt) {
+  utterance ("[g:Radio] (아무거나)[v:Word]")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572519248642)
+}
 train (t-vem0seae2bgvc4q0sit5c05uj) {
   utterance ("[g:Radio] (에헤라디오)[v:DJ_Title:윤택] 언제 해?")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572156344064)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516185611)
 }
 train (t-voyz30x01r9yrshcohob641gb) {
   utterance ("[g:Radio] (아침 11시)[v:ST:11]에 하는 라디오 알려줘")
-  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
-  last-modified (1572092295916)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516195682)
 }

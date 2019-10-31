@@ -1,0 +1,34 @@
+action (RadioList_DJ) {
+  description (라디오 목록을 보여주는 액션)
+  collect {
+    input (input_dj){
+      type (DJ_Title)
+      min (Required) max (One)
+      iterable
+    }
+  }
+  type(Search)
+  output (Radio){
+    throws{
+      error (Unknown){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (unknown)
+            }
+          }
+        }
+      }
+
+      error (NoResult){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (no_result)
+            }
+          }
+        }
+      }
+    }
+  }
+}

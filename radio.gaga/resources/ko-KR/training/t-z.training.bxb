@@ -1,15 +1,15 @@
 train (t-zf0ciq9gy774r0fx9cfbl8x9l) {
   utterance ("[g:Radio] (산들)[v:DJ_Title:산들]이 하는 라디오 보여줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572152651761)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516232097)
 }
 train (t-zinyjmn4lnprruqbp71uzlis8) {
   utterance ("[g:Radio] (2시)[v:ST:2] 라디오")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572173417910)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516237198)
 }
 train (t-zphgockp22q367cgx6dgq3ivo) {
   utterance ("[g:Radio] (정오)[v:ST:12]에 하는 라디오 알려줘")
-  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
-  last-modified (1572092295124)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516242811)
 }

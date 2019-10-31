@@ -1,15 +1,25 @@
 train (t-ldpjv209fot2klbm68krarxh1) {
   utterance ("[g:Radio] 라디오 (목록)[v:Word]")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
-  last-modified (1572172512699)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572515124858)
+}
+train (t-lowlo6oxyb4g6lly38qzufqnw) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572518869088)
 }
 train (t-lq02egaaie2r06kc1girvqyuq) {
   utterance ("[g:Radio] (아무거나)[v:Word] 틀어줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
-  last-modified (1572163745632)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572515126531)
 }
 train (t-ltuf1cp8ocljuljdpjatilft8) {
   utterance ("[g:Radio] (오후의 발견)[v:DJ_Title:이지혜] 언제해?")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572156881697)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516103754)
+}
+train (t-lzgy4eg0ygi37p6me9w2rm8yc) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오 보여줄래")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572518963296)
 }

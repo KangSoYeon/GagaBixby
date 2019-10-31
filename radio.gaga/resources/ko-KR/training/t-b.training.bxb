@@ -1,5 +1,10 @@
 train (t-be0mmd2gvt38adrant0l1vpjp) {
   utterance ("[g:Radio] (FM 풍류마을)[v:DJ_Title:백승주] 언제해?")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572156844318)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516038002)
+}
+train (t-beu5fjz2tbmwwrwdbjl359m3r) {
+  utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오 보여줘봐")
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572518910689)
 }

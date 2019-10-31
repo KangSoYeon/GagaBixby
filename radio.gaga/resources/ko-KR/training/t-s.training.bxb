@@ -1,10 +1,10 @@
 train (t-sh59l29jvdfzrnucfy3n7fr36) {
   utterance ("[g:Radio] (장성규)[v:DJ_Title:장성규] 라디오 찾아줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572163049668)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516154562)
 }
 train (t-slo04091k13m3e1h8ibnbmv2f) {
   utterance ("[g:Radio] (수현)[v:DJ_Title:이수현]이 하는 라디오 보여줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxhEkIVdvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572152579761)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZJDCEfDKLS+JdvBhEkGVcvOJDMktyUhmYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516162219)
 }

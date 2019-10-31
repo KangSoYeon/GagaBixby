@@ -1,10 +1,21 @@
 endpoints {
   action-endpoints {
     // Uncomment the lines below and enter the information for actions, inputs, and the appropriate local or remote endpoints
-    action-endpoint (RadioList) {
-       accepted-inputs (input_start, input_dj, input_word)
-       local-endpoint (radioList.js)
-     }
+    action-endpoint (RadioList_Word) {
+       accepted-inputs (input_word)
+       local-endpoint (radioList_Word.js)
+    }
+
+    action-endpoint (RadioList_Start) {
+       accepted-inputs (input_start)
+       local-endpoint (radioList_Start.js)
+    }
+
+    action-endpoint (RadioList_DJ) {
+       accepted-inputs (input_dj)
+       local-endpoint (radioList_DJ.js)
+    }
+    
 
     // action-endpoint (__ACTION_NAME__) {
     //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)

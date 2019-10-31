@@ -1,10 +1,10 @@
 train (t-w2690hrfbs3j2wzipd6gyw614) {
   utterance ("[g:Radio] (1시)[v:ST:1]에 하는 라디오 알려줘")
-  plan (Y2BmEC3ISaxML8ovzUvRS09MT9QLSkzJzGeQxCrsk1lcwiCELhUcwsDEwAjEDECSkQEEmCAYAA==)
-  last-modified (1572091382553)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516199642)
 }
 train (t-wdn5lgayfhqy8sy15dp709n2z) {
   utterance ("[g:Radio] (7시)[v:ST:7] 라디오")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572173455220)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516204626)
 }

@@ -1,15 +1,15 @@
 train (t-fhczbppp8cswz0qep3976j625) {
   utterance ("[g:Radio] (지금)[v:Word] 방송중인 라디오 알려줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
-  last-modified (1572172255317)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572516057723)
 }
 train (t-ftskl3bmlt5032353jnqudrwd) {
   utterance ("[g:Radio] (지금)[v:Word] 방송하는 라디오 보여줘")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxgEkIXD84tSGJgYGIGYAUgyMoAAEwQDAA==)
-  last-modified (1572172039654)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDCEfDKLS+LD84tSGASQ5cAiTAyMQMwAJBkZQIAJggE=)
+  last-modified (1572515094337)
 }
 train (t-fxw2qgwl3p82zy70n88mulgsu) {
   utterance ("[g:Radio] (오후 3시)[v:ST:15] 라디오")
-  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZRDGEfDKLSxj4kIWDQxiYGBiBmAFIMjKAABMEAwA=)
-  last-modified (1572173296264)
+  plan (Y2BmEMxJTMlMLdZLT0xP1AsCsvMZpDGEfDKLS+KDSxKLShj4kCWDQxiYGBiBmAFIMjKAABMEAwA=)
+  last-modified (1572516064306)
 }

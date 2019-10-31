@@ -1,0 +1,33 @@
+action (RadioList_Word) {
+  description (라디오 목록을 보여주는 액션)
+  collect {
+    input(input_word){
+      type(Word)
+      min (Required) max (One)
+    }
+  }
+  type(Search)
+  output (Radio){
+    throws{
+      error (Unknown){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (unknown)
+            }
+          }
+        }
+      }
+
+      error (NoResult){
+        on-catch{
+          halt{
+            dialog{
+              template-macro (no_result)
+            }
+          }
+        }
+      }
+    }
+  }
+}
