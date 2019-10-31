@@ -1,10 +1,10 @@
 hints {
   uncategorized {
-    utterance (라디오 목록 보여줘)
-    utterance (지금 방송중인 라디오 보여줘)
-    utterance (장성규가 하는 라디오 보여줘)
-    utterance (볼륨을 높여요 언제해?)
-    utterance (아무거나 틀어줘)
-    utterance (저녁 7시에 하는 라디오 알려줘)
+    hint (가가에서 라디오 목록 보여줘)
+    hint (가가에서 지금 방송중인 라디오 보여줘)
+    hint (가가에서 장성규가 하는 라디오 보여줘)
+    hint (가가에서 볼륨을 높여요 언제해?)
+    hint (가가에서 아무거나 틀어줘)
+    hint (가가에서 저녁 7시에 하는 라디오 알려줘)
   }
 }
